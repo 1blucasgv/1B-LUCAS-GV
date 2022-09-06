@@ -1,9 +1,20 @@
-#IMAGEM{
-    TEXT-ALIGN;CENTER;
+.minhalista{
+ color:blue;
+ font size:30;
 }
- 
-#LINK{
- TEXT-ALIGN:CENTER;
+
+#imagem{
+text-align;center
+}
+
+
+
+.lista{
+   color:red;
+   font size:30;
+  }
+
+#link{TEXT-ALIGN:CENTER;
 }
 
 
@@ -22,5 +33,4 @@ h1 {
 h2 {
      color:green;
      text-align: left;
-     font-size:40;
-}
+     font-size:40
